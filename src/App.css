@@ -1,0 +1,73 @@
+.app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buscador {
+  margin-bottom: 20px;
+}
+
+.buscador input {
+  padding: 8px;
+  width: 70%;
+}
+
+.boton,
+.boton-sec {
+  padding: 8px 12px;
+  background-color: #3b6ea5;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.mensaje {
+  color: gray;
+}
+
+.mensaje-error {
+  color: red;
+}
+
+.tarjeta {
+  background-color: white;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.fonetica,
+.ejemplo {
+  color: gray;
+}
+
+.tipo {
+  font-weight: bold;
+}
+
+.acciones {
+  margin-top: 15px;
+}
+
+.acciones button {
+  margin-right: 10px;
+}
+
+.favoritos {
+  margin-top: 30px;
+}
+
+.lista-favoritos {
+  list-style: none;
+  padding: 0;
+}
+
+.lista-favoritos li {
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
